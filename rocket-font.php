@@ -11,7 +11,7 @@
 
 namespace rocket_font;
 
-define( 'rocket_font\VERSION', '0.0.1' );
+define( 'rocket_font\VERSION', '0.0.2' );
 define( 'rocket_font\PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 define( 'rocket_font\PLUGIN_URL', plugin_dir_url( __FILE__ ) );
 define( 'rocket_font\PLUGIN_PREFIX'	, 'RocketFont');
