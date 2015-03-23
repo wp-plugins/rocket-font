@@ -3,7 +3,7 @@ Contributors: Qwerty
 Donate link: http://in-web.co.kr
 Plugin URI: http://rocketpress.kr
 Tags: Wordpress Korean Font, rocket font, 로켓 폰트, 한글 폰트
-Requires at least: 4.1.1
+Requires at least: 4.0
 Tested up to: 4.1.1
 Stable tag: 0.0.1
 License: GPLv2 or later
