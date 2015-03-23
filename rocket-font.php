@@ -71,6 +71,7 @@ class RocketFont extends Plugin_Set {
 			endforeach;
 			
 			$defaults_value = array_merge($defaults_value, $create_values);
+			$defaults_value['font_use_body'] = "yes";
 		}
 		
 		
