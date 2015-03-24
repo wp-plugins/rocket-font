@@ -40,6 +40,8 @@ css 를 잘 다루지 못하는 분들을 위해 최대한 심플하게 만들�
 * 생성하는 css 파일은 폰트 이외의 처리는 없으며 minify 버전으로 압축되기 때문에 용량이 작습니다. (100 byte 미만)
 * 만약 설정한 폰트가 제대로 표시되지 않을 경우 옵션중에 [표시 방식]을 jQuery 방식으로 설정해 보세요.
 
+Designed by : <a href="http://rocketpress.kr/" target="_blank">Rocketpress</a>
+
 == Installation ==
 
 일반적인 워드프레스 플러그인 설치와 같습니다.
