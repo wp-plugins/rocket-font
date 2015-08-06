@@ -1,6 +1,6 @@
 ﻿=== Rocket Font ===
 Contributors: Qwerty23
-Donate link: http://in-web.co.kr
+Donate link: http://rocketpress.kr
 Plugin URI: http://rocketpress.kr
 Tags: Wordpress Korean Font, rocket font, 로켓 폰트, 한글 폰트
 Requires at least: 3.5.1
