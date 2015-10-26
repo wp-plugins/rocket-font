@@ -5,7 +5,7 @@ Plugin URI: http://rocketpress.kr
 Tags: Wordpress Korean Font, rocket font, 로켓 폰트, 한글 폰트
 Requires at least: 3.5.1
 Tested up to: 4.3
-Stable tag: 1.1.0
+Stable tag: 1.2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
