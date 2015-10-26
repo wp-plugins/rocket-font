@@ -180,8 +180,8 @@
 						</table>
 					</div>
 				</div>
-				<div data-pws-tab="font-class-id" data-pws-tab-name="<i class='fa fa-tags'></i> (고급) 각 클래스 및 아이디별 설정">
-					<h2><i class='fa fa-font'></i> 폰트를 적용할 클래스 및 ID 설정 <i class="fa fa-question-circle fa-c2x tooltips" title="<b>이 옵션은<br>1. 특정 영역에서만 폰트를 사용하고 싶거나<br>2. 태그별 폰트를 설정했는데도 적용이 안되는 영역이 있을때 사용하시기 바랍니다.</b><br><br><b>1. 클래스란?</b><p>프론트 앤드 개발자라면 잘 알고 있겠지만 html 태그 속성중에 class 를 뜻합니다.<br><img src='<?php echo $plugin_url?>assets/images/Screenshot_169.jpg'><br>위의 스크린샷을 예로 들면 글의 타이틀 영역의 클래스는<br><b>h2-size</b> 와 <b>entry-title</b> 두개입니다. 둘중에 하나를 아래에 입력하면 됩니다.<br><br><b>2. ID란 ?</b>클래스와 마찬가지로 html 태그의 id속성값을 말합니다.<br>소스를 확인하려면 크롬,파이어폭스 브라우저에서 마우스 오른쪽 클릭 후<br>[요소 확인]을 클릭하면 됩니다.</p>"></i></h2>
+				<div data-pws-tab="font-class-id" data-pws-tab-name="<i class='fa fa-tags'></i> (고급) class 및 id로 설정">
+					<h2><i class='fa fa-font'></i> 폰트를 적용할 클래스 및 ID 설정 <i class="fa fa-question-circle fa-c2x tooltips" title="<b>이 옵션은<br>1. 특정 영역에서만 폰트를 사용하고 싶거나<br>2. 태그별 폰트를 설정했는데도 적용이 안되는 영역이 있을때 사용하시기 바랍니다.</b><br><br><p>class 와 id 에 대한 설명, 조금 더 자세한 사용법은 <a href='http://rocketpress.kr/forums/topic/rocketfont-120-changelog/#use' target='_blank'>포럼</a>을 참고해 주세요.</p>"></i></h2>
 					<div>
 						<textarea name="rocketfont_class_id_list"><?php echo $options['rocketfont_class_id_list']?></textarea>
 						
@@ -196,8 +196,7 @@
 							<li>태그를 전혀 설정하지 않고 클래스와 ID 로만으로 사용할 수도 있습니다.</li>
 							<li>예를들어 <code>글 전체가 아닌 글 제목만, 혹은 글 본문의 특정 영역만 폰트를 적용</code>할 수 있습니다.</li>
 							<li>위에서 입력한 클래스 혹은 ID의 태그로 감싸면 그 부분만 적용되며 가급적 ID 보다는 클래스를 사용하시기 바랍니다.</li>
-							<li>비주얼 모드 예) 아래의 텍스트 모드 예를 참고하세요.<br><img src='<?php echo $plugin_url?>assets/images/Screenshot_170.jpg'></li>
-							<li>택스트 모드 예) span 태그의 class가 rocket-font 로 되어있습니다. 물론 이 rocket-font 클래스가 위에 입력되어 있어야 합니다.<br><img src='<?php echo $plugin_url?>assets/images/Screenshot_171.jpg'></li>
+							<li>조금 더 자세한 사용법은 <a href='http://rocketpress.kr/forums/topic/rocketfont-120-changelog/#custom-use' target='_blank'>포럼</a>을 참고해 주세요.</li>
 						</ol>
 					</div>
 				</div>
